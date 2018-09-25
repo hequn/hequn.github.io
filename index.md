@@ -1,13 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to BreezeQ's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hequn/hequn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+BQ did lots of work in Java Web both frontend and backend in the school time, also during the first period of the career relay on the Java skills he did some development on BigData using Hadoop/Hive/HBase and the java spider. About 20 projects were done that BQ acted as the leader, BQ got skilled in Software Engineering which is the major in the master leanring time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Java Web
+- [A mobile H5 generator](https://github.com/hequn/BeaconMobile) 
+- [A base Spring/Spring MVC/Spring Security/Mybatis framework including the user management](https://github.com/hequn/CTBRI_BeaconAccount) 
+### Java Spider
+- [A Java Spider work according to the craw4j in redis distributed mode](https://github.com/hequn/CTSpider)
+### Java HBase framework
+- [The work in sogou which can monitor the flow number for the new product after deployed to clients](https://github.com/hequn/common-realtime-flow-framework/tree/hequn)
+- [The work in sogou which can be a framework used in DB realtime pv querying](https://github.com/hequn/common-realtime-pv-analysis)
 
-### Markdown
+### ML & CV
+- [ML practices in ahead](https://github.com/hequn/MLLearning) 
+- [A keras transfer learning framework including center loss and triplet loss](https://github.com/hequn/keras-transfer-learning) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Extra Html Template Notice 
 ```markdown
 Syntax highlighted code block
 
@@ -28,10 +36,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hequn/hequn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[editor on GitHub](https://github.com/hequn/hequn.github.io/edit/master/index.md)
